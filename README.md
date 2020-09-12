@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions. Love to explore and work in UI technologies.
 - 🎓 &nbsp; Completed Masters in Computer Management and Bachalors Computer Engineering at University of Pune .
 - 💼 &nbsp; Working as a Lead Developer - Angular at Virtusa Corporation - USA.
-- 🌱 &nbsp; Learning more about Angular Micro-Applications and PWA, Java + SpringBott MicroServices, Flutter.
+- 🌱 &nbsp; Learning more about Angular Micro-Applications and PWA, Java + SpringBoot MicroServices, Flutter.
 
 <h3>🛠 Tech Stack</h3>
 
