@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions. Most Interested In UI technologies.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions. Love to explore and work in UI technologies.
 - 🎓 &nbsp; Completed Masters in Computer Management and Bachalors Computer Engineering at University of Pune .
 - 💼 &nbsp; Working as a Lead Developer - Angular at Virtusa Corporation - USA.
 - 🌱 &nbsp; Learning more about Angular Micro-Applications and PWA, Java + SpringBott MicroServices, Flutter.
@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bhormilind><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Milind%20Bhor-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:bhormilind@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bhormilind@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
