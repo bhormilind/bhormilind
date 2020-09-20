@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bhormilind"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Milind%20Bhor-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bhormilind" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Milind%20Bhor-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:bhormilind@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bhormilind@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
